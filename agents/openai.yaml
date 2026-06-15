@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文转文字稿整理"
+  short_description: "将中文录音转写稿整理为详尽、通顺、保留课堂脉络的文稿"
+  default_prompt: "使用 $transcript-polisher-zh 将这份中文转文字稿整理成扩展完整、语序通顺且保留原始讨论脉络的文稿。"
